@@ -13,3 +13,5 @@ This is a simple Node.js-powered search engine that uses the **Google Custom Sea
 ### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
