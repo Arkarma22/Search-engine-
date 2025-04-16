@@ -19,7 +19,8 @@ A lightweight Node.js web app that allows users to search the internet using the
 
 ```bash
 git https://github.com/Arkarma22/Search-engine-
-cd Search-engine-
+cd Search-engine
+```
 2. Install Dependencies
 bash
 Copy
