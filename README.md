@@ -1,14 +1,22 @@
-# 🔍 Google Custom Search App (Node.js)
+# 🔍 Google Custom Search Node App
 
-This is a simple Node.js-powered search engine that uses the **Google Custom Search API** to perform filtered searches on specific sites you configure.
+A lightweight Node.js web app that allows users to search the internet using the **Google Programmable Search Engine (CSE)** API. You can filter which websites the search results come from by configuring your CSE settings.
 
-## ✨ Features
+---
 
-- Uses [Google Programmable Search Engine](https://programmablesearchengine.google.com/)
-- You control which sites the search engine includes
-- Fast and lightweight — no OpenAI or extra processing
+## 📦 Technologies Used
 
-## 🚀 Getting Started
+- **Node.js** – lightweight runtime environment
+- **Axios** – HTTP requests to Google Search API
+- **dotenv** – secure environment variable handling
+- **Google Programmable Search Engine** – restricts searches to specific sites
+
+---
+
+## 🛠 Setup & Installation
 
 ### 1. Clone the Repository
 
+```bash
+git https://github.com/Arkarma22/Search-engine-
+cd your-repo-name
