@@ -89,7 +89,7 @@ Type a search query and hit **Enter** — your app will return results based on 
 ## 👨‍💻 Author
 
 Built with ❤️ by **ARK**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Arkarma22](https://github.com/Arkarma22)
 
 ---
 
