@@ -56,8 +56,8 @@ class SearchApp(QWidget):
 
     def fetch_results(self, query):
         # Replace with your Google API key and custom search engine ID
-        API_KEY = "AIzaSyDNMeM1xBNjL6Ej3IBUGhPhGjvLBiF5oMI"
-        CX = "90001fd4025f94539"
+        API_KEY = ""
+        CX = ""
         
         url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={CX}&q={query}"
         response = requests.get(url)
